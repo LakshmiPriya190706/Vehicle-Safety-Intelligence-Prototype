@@ -1,0 +1,11 @@
+Accuracy: 0.9741666666666666
+
+              precision    recall  f1-score   support
+
+    CRITICAL       0.96      0.98      0.97       200
+      NORMAL       1.00      0.98      0.99       850
+        RISK       0.86      0.95      0.90       150
+
+    accuracy                           0.97      1200
+   macro avg       0.94      0.97      0.95      1200
+weighted avg       0.98      0.97      0.97      1200
